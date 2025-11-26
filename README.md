@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **DSA in cpp and python libraries**
 
-- 👨‍💻 All of my projects are a at [vailable](vailable)
+- 👨‍💻 All of my projects are a at [https://github.com/MUSKANMEHTO]
 
 - 📫 How to reach me **iitianmuskan@gmail.com**
 
